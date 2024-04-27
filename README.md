@@ -1,5 +1,8 @@
 # Next.js & NextUI Template
 
+THIS PROJECT IS USED TO TEST THE ISSUE WITH HAVING BOTH NEXTUI AND FLOWBITE. 
+Input field of NextUI becomes bordered and misaligned.
+
 This is a template for creating applications using Next.js 14 (app directory) and NextUI (v2).
 
 ## Technologies Used
